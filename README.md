@@ -12,5 +12,5 @@ Belajar kelas Belajar Git dengan Github (Progress 35%)
 * Siap dengan modul pembelajaran yang baru
 
 **30 Agustus 2021**
-* Aku mendapat uang saku dari pemerintah sebesar 2 juta per bulan.
+* Aku mendapat uang saku dari pemerintah sebesar 10 juta per bulan.
 * Aku foya-foya bersama teman-temanku
